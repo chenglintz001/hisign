@@ -1,0 +1,27 @@
+                ╔═══════════════╗
+                ║       安卓源码服务专家       ║
+  ╔══════╣───────────────╠══════╗
+  ║            ║    http://www.javaapk.com    ║            ║
+  ║            ╚═══════════════╝            ║
+　║                                                          ║
+　║JavaApk声明：                                             ║
+  ║   1) 本站不保证所提供软件或程序的完整性和安全性。        ║
+  ║   2) 转载本站提供的资源请勿删除本说明文件。              ║
+  ║   3) 本站源码为网上搜集或网友提供，如果涉及或侵害到您的版║
+  ║      权，请立即通知我们。                                ║
+  ║   4) 本站提供免费代码只可供研究学习使用，切勿用于商业用途║
+  ║      由此引起一切后果与本站无关。                        ║
+  ║   5) 商业源码请在源码授权范围内进行使用！                ║
+　║                                                          ║
+  ║           JavaApk —— 安卓源码服务专家                  ║
+  ║           联系方式 : javaapk@qq.com                      ║
+  ║    ╔═══════════════════════╗    ║
+  ╚══╣    安卓源码专业站 http://www.JavaApk.com     ╠══╝
+        ╚═══════════════════════╝
+
+源码简介:
+本项目是一个基于科大讯飞的语音转文字的例子源码，小编测试一下表示被着准确率惊呆了，之前小编用过其他的语音搜索类的工具，但是准确率总是不那么满意，用这个例子我试着读了杂志上的一段话，语速还略微快了一些，但是转换出来的文字只有两个字跟原文不一样，但是还是同音字。小编也试着读过英文，可能是小编的英文弱爆了，老是识别成汉字。jar包的使用代码有比较详细的注释，需要的朋友可以研究一下。
+涉及模块&技术
+语音转汉字
+科大讯飞
+...
